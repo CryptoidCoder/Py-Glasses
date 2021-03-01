@@ -16,17 +16,6 @@ Ideas so far:
 - Once this is all working, i will try to encorporate my python vitual assistant into it,
 - This will probably be controlled by a ring (or something like it) with a joystick.
 
-***To run object detection:***
-```python object_detection_webcam-(yolov3_tiny).py```
+you will need to download some things in some places, in the folder is a README.md file, it will contain the links to anything you may need to download.
 
-in future this and the HUD repo will be intergrated together, with the virtual assistant, and will therfore have a switching mechanism to change form HUD to detection.
-
-
-# Stuff needed:
-- ```pip install -r requirements.txt```
-- you will need to create a file called ```.env``` the format of this file is as follows:
-```
-#.env
-
-HUD_PATH = \\path\\to\\the\\main-HUD\\file\\here\\\main-HUD.py
-```
+I do not think that there are any requirements.txt files, however there may be, if you are getting import errors, let me know and i can let you know what you need to pip install, otherwise just google the errors.

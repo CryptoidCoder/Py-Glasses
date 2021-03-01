@@ -1,0 +1,1 @@
+tar -xvzf "C:\PATH\TO\FILE\FILENAME.tar.gz" -C "C:\PATH\TO\EXTRACTION"

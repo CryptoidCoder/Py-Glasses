@@ -1,0 +1,7 @@
+#tensorflow
+opencv-python
+devicehive
+devicehive-webconfig
+six
+pafy
+youtube_dl

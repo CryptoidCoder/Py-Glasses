@@ -1,0 +1,7 @@
+On Pi:
+
+1) https://www.tensorflow.org/install/source_rpi  {do this- it is to setup tensorflow}
+2) https://github.com/devicehive/devicehive-video-analysis {clone this- it is the object detecton stuff}
+3) {get all the dependencies for this ^^}
+4) {run the script}
+5) {get it to do object detection on a livestream}

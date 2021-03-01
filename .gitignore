@@ -13,3 +13,5 @@ __pycache__
 env
 
 #Specific to this project
+yolov3.weights
+data.tar.gz
