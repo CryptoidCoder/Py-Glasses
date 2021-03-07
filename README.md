@@ -6,29 +6,37 @@
 
 ### If you Want To Download This Code Then see The Commands Below:
 
-> #### HUD
-> - This is the part that would be running on the VR Goggles (RPi server / Phone)
-> - To Get The Code:
-> - - `git clone --branch HUD https://CryptoidCoder/Py-Glasses.git`
+#### HUD
+- This is the part that would be running on the VR Goggles (RPi server / Phone)
+- To Get The Code:
+- - `git clone --branch HUD https://CryptoidCoder/Py-Glasses.git`
 
-> #### Detection
-> - This is the part that runs object detection
-> - To Get The Code:
-> - - `git clone --branch Detection https://CryptoidCoder/Py-Glasses.git`
+<hr>
 
-> #### Testing
-> - This is the part that has all of my test scripts, and other peoples repos - that I was taking inspiration from
-> - To Get The Code:
-> - - `git clone --branch Testing https://CryptoidCoder/Py-Glasses.git`
+#### Detection
+- This is the part that runs object detection
+- To Get The Code:
+- - `git clone --branch Detection https://CryptoidCoder/Py-Glasses.git`
 
-> ### Running:
-> - Generally there is a `requirements.txt` file, so run the following command to get all the modules:
-> - - `pip install -r requirements.txt`
->
-> - you will often have to create `.env` files with api keys etc in them
->
-> - There should alwasy be a README.md file that will explain anything else though.
+<hr>
 
+#### Testing
+- This is the part that has all of my test scripts, and other peoples repos - that I was taking inspiration from
+- To Get The Code:
+- - `git clone --branch Testing https://CryptoidCoder/Py-Glasses.git`
+
+<hr>
+
+### Running:
+- Generally there is a `requirements.txt` file, so run the following command to get all the modules:
+- - `pip install -r requirements.txt`
+
+- you will often have to create `.env` files with api keys etc in them
+
+- There should alwasy be a README.md file that will explain anything else though.
+
+
+<hr>
 
 ### More About The Project:
 
