@@ -1,0 +1,21 @@
+#Visual Studio Code
+.vscode
+
+#Passwords
+.env
+Passes.py
+
+#Logs/Other Stuff
+.log
+
+#Python Caches
+__pycache__
+.pyc
+
+#commits
+commit.txt
+
+#Virtual Environments
+venv
+
+#Specific to this project
